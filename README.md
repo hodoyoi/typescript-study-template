@@ -27,7 +27,6 @@ $ npm run dev
 
 ## ディレクトリ構成
 - src ... ソースコードを格納する
-- static ... 静的ファイルを置く
 - dist ... `$ yarn build` または `$ npm run build` でコンパイルした成果物を格納する
 - node_modules ... `yarn` または `npm` で導入したライブラリを格納する
 
